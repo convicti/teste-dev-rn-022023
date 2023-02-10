@@ -69,9 +69,9 @@ graph TD;
 ```
 
 ## Documentos anexos
-Documento de Especificação: https://github.com/convicti/teste-dev-web-laravel-012023/raw/main/docs/documento-especificacao.pdf
+Documento de Especificação: https://github.com/convicti/teste-dev-rn-022023/raw/main/docs/documento-especificacao.pdf
 
-Dados do Projeto: https://github.com/convicti/teste-dev-web-laravel-012023/raw/main/docs/dados-do-projeto.xlsx
+Dados do Projeto: https://github.com/convicti/teste-dev-rn-022023/raw/main/docs/dados-do-projeto.xlsx
 
 ## Observações
 Este repositório será constantemente atualizado com novas informações no *documento de especificação*, incluindo respostas de perguntas feitas pelos participantes do processo seletivo bem como itens "fora do escopo" caso seja necessário.
